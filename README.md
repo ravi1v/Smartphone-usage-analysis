@@ -289,7 +289,7 @@ Smartphone-Addiction-Predictor
 This dashboard visualizes smartphone addiction patterns, usage distribution, and prediction insights.
 
 <p align="center">
-  <img src="images/dashboard.jpg" width="850"/>
+  <img src="images/Dashboard.jpg" width="850"/>
 </p>
 
 # 🔮 Future Improvements
