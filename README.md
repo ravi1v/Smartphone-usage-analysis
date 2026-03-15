@@ -186,8 +186,8 @@ model = joblib.load("smartphone_addiction_model.pkl")
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/smartsense.git
-cd smartsense
+git clone https://github.com/ravi1v/Smartphone-usage-analysis.git
+
 ```
 
 ## Install dependencies
