@@ -285,6 +285,10 @@ Smartphone-Addiction-Predictor
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](Dashboard.jpg)
+
 # 🔮 Future Improvements
 
 Possible improvements to the project include:
